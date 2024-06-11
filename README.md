@@ -15,13 +15,11 @@ This project demonstrates a traffic light control system using a GUI built with 
 - ATmega32 microcontroller
 - USB to TTL converter
 - LEDs (Red, Yellow, Green)
-- LCD display
 
 ## Setup and Installation
 1. **Hardware Setup:**
    - Connect the LEDs to the ATmega32 microcontroller.
    - Connect the USB to TTL converter to the microcontroller for serial communication.
-   - Ensure the LCD display is connected and configured correctly.
 
 2. **Software Setup:**
    - Install Qt and set up the development environment.
