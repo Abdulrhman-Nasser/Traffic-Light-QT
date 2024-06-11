@@ -25,7 +25,7 @@ This project demonstrates a traffic light control system using a GUI built with 
    - Install Qt and set up the development environment.
    - Clone this repository: 
      ```bash
-     git clone https://github.com/yourusername/traffic-light-control.git
+     git clone https://github.com/Abdulrhman-Nasser/Traffic-Light-QT.git
      ```
    - Open the Qt project file in Qt Creator.
    - Configure the serial port settings in the code to match your hardware configuration.
